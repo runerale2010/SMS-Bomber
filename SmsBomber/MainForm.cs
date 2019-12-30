@@ -25,7 +25,6 @@ namespace SmsBomber
             Working.ProgressBar_CountCycle = this.ProgressBar_CountCycle;
             Button_ViewOnGithub.Text = "View on Github, Current Version " + Application.ProductVersion.Replace(".0.0", "");
             LoadSettings();
-            Console.WriteLine("test");
         }
 
         #region Запуск всех потоков
