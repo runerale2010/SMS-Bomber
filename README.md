@@ -24,5 +24,5 @@
    - Сайты с которых будут отправляться SMS
 ## Зависимости:
 * [.NET Framework 4.6.2](https://dotnet.microsoft.com/download/dotnet-framework)
-* [Leaf.xNet.5.1.88](https://www.nuget.org/packages?q=Leaf.xNet)
-* [MetroModernUI.1.4.0.0](https://www.nuget.org/packages/MetroModernUI/)
+* [Leaf.xNet 5.1.88](https://www.nuget.org/packages/Leaf.xNet/)
+* [MetroModernUI 1.4.0.0](https://www.nuget.org/packages/MetroModernUI/)
